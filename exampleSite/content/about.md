@@ -1,10 +1,8 @@
 ---
 title: "About"
-date: 2019-04-19T21:37:58+05:30
+date: 2021-04-25T21:37:58+05:30
 type: "page"
 ---
 
-This is some static page where you can write about yourself.
-Try 1
-Try 2 through the desktop
-Try 3 through the desktop
+Hello. 
+I'm an engineer from california sharing my thoughts here on this blog. Cheers!
