@@ -5,7 +5,7 @@ description: "You have a to-do list that scrolls on for days. You are managing m
 tags: [Primer, todo]
 ---
 
-[i] This post comes with the Ink and has some good tips. So I'm keeping this on the blog. [\i]
+*This post comes with the Ink and has some good tips. So I'm keeping this on the blog.*
 
 You have a to-do list that scrolls on for days. You are managing multiple projects, getting lots of email and messages on different messaging systems, managing finances and personal health habits and so much more.
 
