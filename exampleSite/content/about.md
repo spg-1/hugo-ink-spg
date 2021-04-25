@@ -7,3 +7,4 @@ type: "page"
 This is some static page where you can write about yourself.
 Try 1
 Try 2 through the desktop
+Try 3 through the desktop
